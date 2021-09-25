@@ -1,0 +1,6 @@
+recovery.img
+system/system/apex/com.android.vndk.current.apex
+bootimg/13_dtbdump_IOz;}.dtb
+system_ext/priv-app/Settings/Settings.apk
+boot.img
+product/priv-app/Velvet/Velvet.apk
